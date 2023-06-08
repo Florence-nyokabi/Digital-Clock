@@ -1,4 +1,3 @@
-
 setInterval(()=>{
     const time = document.getElementById("time");
     let date = new Date();
